@@ -22,10 +22,12 @@ A continuación se listan las prácticas incluidas en el repositorio:
 
 ## Recursos
 
-Vídeos y material complementario disponibles en OneDrive:  
-https://unioviedo-my.sharepoint.com/personal/uo294066_uniovi_es/_layouts/15/onedrive.aspx?id=/personal/uo294066_uniovi_es/Documents/Tercer_Curso/Semestre_1/SR/Videos
+[Vídeos y material complementario disponibles en OneDrive](https://unioviedo-my.sharepoint.com/personal/uo294066_uniovi_es/_layouts/15/onedrive.aspx?id=/personal/uo294066_uniovi_es/Documents/Tercer_Curso/Semestre_1/SR/Videos
+)
+
 
 ## Autores
+
 
 [Diego García González](https://github.com/DiegoLangreo7)
 
