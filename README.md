@@ -26,9 +26,8 @@ A continuación se listan las prácticas incluidas en el repositorio:
 )
 
 
+---
 ## Autores
+[DiegoLangreo7](https://github.com/DiegoLangreo7)
 
-
-[Diego García González](https://github.com/DiegoLangreo7)
-
-[Aitor Gómez Ogueta](https://github.com/Aitorsiius)
+[Aitorsiius](https://github.com/Aitorsiius)
